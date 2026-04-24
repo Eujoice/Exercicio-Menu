@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigationView">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/cupons"
+            android:title="Cupons"
+            android:icon="@drawable/ic_cupom"/>
+
+        <item
+            android:id="@+id/maisvendidos"
+            android:title="Mais Vendidos"
+            android:icon="@drawable/ic_vendas"/>
+
+        <item
+            android:id="@+id/libras"
+            android:title="Ativar tradutor em libras"
+            android:icon="@drawable/ic_libras"/>
+
+        <item
+            android:id="@+id/acessibilidade"
+            android:title="Acessibilidade"
+            android:icon="@drawable/ic_acessibilidade"/>
+    </group>
+
+</menu>
