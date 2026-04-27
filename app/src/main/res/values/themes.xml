@@ -6,5 +6,10 @@
         <item name="android:statusBarColor">@color/blue</item>
     </style>
 
+    <style name="TextoFragments" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+
     <style name="Theme.ExercicioMenu" parent="Base.Theme.ExercicioMenu" />
 </resources>
