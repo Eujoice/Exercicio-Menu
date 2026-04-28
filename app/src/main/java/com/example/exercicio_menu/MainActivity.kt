@@ -57,6 +57,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                 R.id.home -> openFragment(HomeFragment())
                 R.id.carrinho -> openFragment(CarrinhoFragment())
                 R.id.perfil -> openFragment(PerfilFragment())
+                R.id.aluna -> openFragment(AlunaFragment())
             }
             true
         }

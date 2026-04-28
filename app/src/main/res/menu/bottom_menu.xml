@@ -16,4 +16,9 @@
         android:title="Perfil"
         android:icon="@drawable/ic_profile"/>
 
+    <item
+        android:id="@+id/aluna"
+        android:title="Aluna"
+        android:icon="@drawable/ic_school"/>
+
 </menu>
